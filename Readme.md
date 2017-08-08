@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Иванна Ковалева](https://up.htmlacademy.ru/htmlcss/18/user/445039).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Власов](https://htmlacademy.ru/profile/amaringo).
 
 ---
 
